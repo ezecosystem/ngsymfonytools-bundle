@@ -12,7 +12,7 @@
         "netgen/ngsymfonytools": "*"
     },
     "autoload": {
-        "psr-0": {"EzSystems\\ngsymfonytoolsBundle": ""}
+        "psr-0": {"EzSystems\\NgsymfonytoolsBundle": ""}
     },
-    "target-dir": "EzSystems/ngsymfonytoolsBundle"
+    "target-dir": "EzSystems/NgsymfonytoolsBundle"
 }
