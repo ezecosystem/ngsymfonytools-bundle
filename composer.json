@@ -9,7 +9,7 @@
         }
     ],
     "requires": {
-        "netgen/ngsymfonytools": "*"
+        "netgen/ngsymfonytools": "~1.0"
     },
     "autoload": {
         "psr-0": {"EzSystems\\ngsymfonytoolsBundle": ""}
