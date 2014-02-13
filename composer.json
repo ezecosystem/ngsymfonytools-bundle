@@ -1,6 +1,6 @@
 {
-    "name": "ezsystems/symfony-tools-bundle",
-    "description": "Bundle of the legacy ngsymfonytools extension",
+    "name": "ezsystems/ngsymfonytools-bundle",
+    "description": "Bundle of the legacy netgen/ngsymfonytools extension",
     "license": "GPL-2.0",
     "authors": [
         {
@@ -8,8 +8,11 @@
             "email": "bd@ez.no"
         }
     ],
-    "autoload": {
-        "psr-0": {"EzSystems\\SymfonyToolsBundle": ""}
+    "requires": {
+        "netgen/ngsymfonytools": "*"
     },
-    "target-dir": "EzSystems/SymfonyToolsBundle"
+    "autoload": {
+        "psr-0": {"EzSystems\\ngsymfonytoolsBundle": ""}
+    },
+    "target-dir": "EzSystems/ngsymfonytoolsBundle"
 }
