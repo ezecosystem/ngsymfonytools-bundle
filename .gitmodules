@@ -1,0 +1,3 @@
+[submodule "ezpublish_legacy/ngsymfonytools"]
+	path = ezpublish_legacy/ngsymfonytools
+	url = https://github.com/netgen/ngsymfonytools.git
