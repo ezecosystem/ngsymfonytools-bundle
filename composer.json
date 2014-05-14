@@ -8,7 +8,7 @@
             "email": "bd@ez.no"
         }
     ],
-    "requires": {
+    "require": {
         "netgen/ngsymfonytools": "~1.0"
     },
     "autoload": {
