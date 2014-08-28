@@ -1,4 +1,4 @@
-# EzSystemsCommentsBundle
+# NgsymfonytoolsBundle
 
 ngsymfonytools-bundle integrates the legacy [netgen/ngsymfonytools](https://github.com/netgen/ngsymfonytools) as a
 Legacy bundle, a feature introduced in eZ Publish 5.3 (see https://github.com/ezsystems/ezpublish-kernel/pull/719).
